@@ -1,1 +1,0 @@
-GET http://Localhost:3001/api/notes
